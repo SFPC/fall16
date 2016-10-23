@@ -24,6 +24,7 @@ Teacher: Taeyoon Choi
 
 ##Electronics 
 Teacher: Phil Stearns
+
 Class repository 
 
 ##Physical computing
