@@ -24,9 +24,11 @@ Teacher: Taeyoon Choi
 
 ##Electronics 
 Teacher: Phil Stearns
+Class repository 
 
 ##Physical computing
 Caitlin Morris
+
 [Class repository](https://github.com/caitlinmorris/sfpc-pcomp-2015) 
 
 ##Artist in residence
@@ -34,4 +36,5 @@ Caitlin Morris
 
 ## Session 
 Organizers: Taeyoon Choi and Lauren Gardner
+
 Teaching assistnat: Robby Kraft 
