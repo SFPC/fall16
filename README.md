@@ -11,6 +11,8 @@ Teacher: Ramsey Nasser
 
 ##Lux Lingua
 Teacher: Patricio Gonzalez Vivo
+
+[Class repository](https://github.com/phillipdavidstearns/SFPC_fall_2016/blob/master/README.md)
  
 ##Architectural History of Computing 
 Teacher: Ingrid Burrington 
@@ -25,6 +27,8 @@ Teacher: Taeyoon Choi
 ##Electronics 
 Teacher: Phil Stearns
 
+[Class repository](https://github.com/phillipdavidstearns/SFPC_fall_2016/blob/master/README.md)
+
 Class repository 
 
 ##Physical computing
@@ -34,6 +38,8 @@ Caitlin Morris
 
 ##Artist in residence
 [Zach Lieberman](http://thesystemis.com)   
+
+[Francis Tseng](http://frnsys.com/)
 
 ## Session 
 Organizers: Taeyoon Choi and Lauren Gardner
