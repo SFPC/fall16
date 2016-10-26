@@ -11,9 +11,8 @@ Teacher: Ramsey Nasser
 
 ##Lux Lingua
 Teacher: Patricio Gonzalez Vivo
+[Class repository](https://github.com/patriciogonzalezvivo/sfpc_ll16)
 
-[Class repository](https://github.com/phillipdavidstearns/SFPC_fall_2016/blob/master/README.md)
- 
 ##Architectural History of Computing 
 Teacher: Ingrid Burrington 
 
