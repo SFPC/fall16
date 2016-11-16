@@ -29,12 +29,11 @@ Teacher: Phil Stearns
 
 [Class repository](https://github.com/phillipdavidstearns/SFPC_fall_2016/blob/master/README.md)
 
-Class repository 
 
 ##Physical computing
 Caitlin Morris
 
-[Class repository](https://github.com/caitlinmorris/sfpc-pcomp-2015) 
+[Class repository](https://github.com/caitlinmorris/sfpc-pcomp-f2016) 
 
 ##Artist in residence
 [Zach Lieberman](http://thesystemis.com)   
