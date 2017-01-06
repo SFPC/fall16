@@ -7,8 +7,8 @@ Fall 2016 - 10 weeks session
 ##Radical Computer Science 
 Teacher: Ramsey Nasser
 
-[Class repository](https://github.com/nasser/teaching/tree/gh-pages/2016)
-
+[Class info](http://nas.sr/teaching/2016/radical-computer-science/)
+ 
 ##Lux Lingua
 Teacher: Patricio Gonzalez Vivo
 
